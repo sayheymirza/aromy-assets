@@ -1,0 +1,38 @@
+{
+    "status": true,
+    "code": 200,
+    "data": {
+        "version": {
+            "version": "1.0.0"
+        },
+        "pages": [
+            {
+                "id": 1,
+                "key": "privacy",
+                "content": ""
+            }
+        ],
+        "sounds": [
+            "marching-band",
+            "lofi-beats",
+            "church-bells",
+            "couple-arguing",
+            "carnival",
+            "volcano",
+            "beehive",
+            "campfire",
+            "barn-animals",
+            "office",
+            "playground",
+            "rain",
+            "zombies",
+            "dungeon",
+            "construction",
+            "lawnmower",
+            "highway",
+            "fireworks",
+            "medieval-battle",
+            "crime-scene"
+        ]
+    }
+}
