@@ -43,6 +43,17 @@
             "lawnmower",
             "wind",
             "lofi-beats"
+        ],
+        "spaces": [
+            {
+                "color": "#ffffff",
+                "thumbnail": "forest",
+                "name": "جنگل",
+                "sounds": [
+                    "forest",
+                    "wind"
+                ]
+            }
         ]
     }
 }
