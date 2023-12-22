@@ -46,8 +46,7 @@
         ],
         "spaces": [
             {
-                "color": "#ffffff",
-                "thumbnail": "forest",
+                "color": "#43C489",
                 "name": "جنگل",
                 "sounds": [
                     "forest",
